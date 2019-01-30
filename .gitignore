@@ -3,3 +3,15 @@
 ################################################################################
 
 /.vs/Pitang/v15/Server/sqlite3
+/Api/bin/Debug/netcoreapp2.1
+/Api/obj
+/Application/bin/Debug/netcoreapp2.1
+/Application/obj
+/Domain.Data/bin/Debug/netcoreapp2.1
+/Domain.Data/obj
+/Domain.Shared/bin/Debug/netcoreapp2.1
+/Domain.Shared/obj
+/Infra.Cutting/bin/Debug/netcoreapp2.1
+/Infra.Cutting/obj
+/Infra.Data/bin/Debug/netcoreapp2.1
+/Infra.Data/obj
